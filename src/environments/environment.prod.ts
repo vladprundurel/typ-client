@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'http://localhost:4000/api',
-  apiChartsBaseUrl: 'http://localhost:4000/api-charts'
+  apiBaseUrl: 'https://typ-server.herokuapp.com/api',
+  apiChartsBaseUrl: 'https://typ-server.herokuapp.com/api-charts'
 };
