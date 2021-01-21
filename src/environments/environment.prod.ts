@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'https://typ-server.herokuapp.com/api',
-  apiChartsBaseUrl: 'https://typ-server.herokuapp.com/api-charts'
+  apiBaseUrl: 'https://typ-server-ygfoq.ondigitalocean.app/api',
+  apiChartsBaseUrl: 'https://typ-server-ygfoq.ondigitalocean.app/api-charts'
 };
