@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'http://localhost:4000/api',
-  apiChartsBaseUrl: 'http://localhost:4000/api-charts'
+  apiBaseUrl: 'https://typ-server-ygfoq.ondigitalocean.app/api',
+  apiChartsBaseUrl: 'https://typ-server-ygfoq.ondigitalocean.app/api-charts'
 };
 
 /*
